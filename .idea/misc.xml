@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_root.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_web.xml" value="0.1157548125633232" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/layout/content_welcome.xml" value="0.1331521739130435" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.3927083333333333" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.36556603773584906" />
+        <entry key="app/src/main/res/layout/fragment_web.xml" value="0.1331521739130435" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.1331521739130435" />
+        <entry key="app/src/main/res/layout/web_fragment.xml" value="0.10005065856129686" />
+        <entry key="app/src/main/res/layout/welcome_content.xml" value="0.10005065856129686" />
+        <entry key="app/src/main/res/menu/bottom_app_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.12407407407407407" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.7059925093632958" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

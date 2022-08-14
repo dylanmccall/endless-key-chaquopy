@@ -1,0 +1,53 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.endlessos.endlesskey.MainActivity">
+
+    <item
+        android:id="@+id/action_back"
+        android:orderInCategory="1"
+        android:title="@string/menu_back"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_forward"
+        android:orderInCategory="2"
+        android:title="@string/menu_forward"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_home"
+        android:orderInCategory="3"
+        android:title="@string/menu_home"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_reload"
+        android:orderInCategory="10"
+        android:title="@string/menu_reload"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_in_browser"
+        android:orderInCategory="11"
+        android:title="@string/menu_open_in_browser"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_documentation"
+        android:orderInCategory="98"
+        android:title="@string/menu_documentation"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_forums"
+        android:orderInCategory="99"
+        android:title="@string/menu_forums"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="@string/menu_about"
+        app:showAsAction="never" />
+</menu>

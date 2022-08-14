@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Endless Key</string>
+    <string name="menu_back">Back</string>
+    <string name="menu_forward">Forward</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_reload">Reload</string>
+    <string name="menu_open_in_browser">Open in Browser</string>
+    <string name="menu_documentation">Documentation</string>
+    <string name="menu_forums">Community Forums</string>
+    <string name="menu_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="welcome_fragment_label">Welcome</string>
+    <string name="web_fragment_label">Kolibri</string>
+    <string name="continue_label">Continue</string>
+
+    <string name="service_notification_channel_name">Service</string>
+    <string name="service_notification_title">Kolibri is running…</string>
+
+    <string name="welcome_to_kolibri">Welcome to Kolibri</string>
+    <string name="next">Next</string>
+</resources>
